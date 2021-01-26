@@ -34,6 +34,7 @@
                                 <li><a href="#popular-makers">Car Makers</a></li>
                                 <li><a href="#about-us">About us</a></li>
                                 <li><a href="#contact-us">Contact</a></li>
+                                <li><input class="we"  placeholder="SELECT CATEGORY" type="text"></li>
                             </ul>  
                         </div>
                     </div>
@@ -49,6 +50,7 @@
                         <li><a href="#popular-makers">Car Makers</a></li>
                         <li><a href="#about-us">About us</a></li>
                         <li><a href="#contact-us">Contact</a></li>
+                        <li><input class="we"  placeholder="SELECT CATEGORY" type="text"></li>
                     </ul>
                 </nav>
             </div>
@@ -61,14 +63,6 @@
                 <div class="title">
                     <p>Find Your Good Car</p>
                     <a>Existing car <span>1000</span></a>
-                </div>
-                <div class="ul">
-                    <div class="nav-info">
-                        <input class="we"  placeholder="SELECT CATEGORY" type="text">
-                        <input class="we" placeholder="ENTER ADDRESS" type="text">
-                        <input class="we" placeholder="SELECT MODEL YEAR" type="text">
-                        <button class="we">SEARCH</button>
-                    </div>
                 </div>
             </div>
         </div>
